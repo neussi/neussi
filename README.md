@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/neussi">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System+%26+Network+Administrator;DevOps+Engineer+%26+Cloud+Architect;Python+|+Django+Developer;React+|+Next.js+Developer;Flutter+%26+.NET+Developer;MLOps+%26+AI+Engineer;Co-Founder+@+Propentatech+Savong;Innovator+@+NPE-TECH+Community;Freelancer+%26+Open+Source+Contributor&font=Fira+Code&center=true&width=800&height=50&color=00D9FF&vCenter=true&size=20&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+|+Django+Developer;React+|+Next.js+Developer;Flutter+%26+.NET+Developer;MLOps+%26+AI+Engineer;Co-Founder+@+Propentatech+Savong;Innovator+@+NPE-TECH+Community;Freelancer+%26+Open+Source+Contributor&font=Fira+Code&center=true&width=800&height=50&color=00D9FF&vCenter=true&size=20&pause=1000">
   </a>
 </p>
 
