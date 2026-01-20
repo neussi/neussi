@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ing.Patrice%20Neussi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Full%20Stack%20Developer%20|%20MLOps%20Enthusiast&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=220&section=header&text=Ing.Patrice%20Neussi&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20Full%20Stack%20Developer%20|%20MLOps%20Enthusiast%20&descAlignY=55)
 
 </div>
 
