@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Ing.Patrice%20Neussi&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Full%20Stack%20Developer%20|%20MLOps%20Enthusiast&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=Patrice%20NEUSSI&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20|%20Full%20Stack%20Developer%20|%20MLOps%20Enthusiast%20|%20B+&descSize=20&descAlignY=55)
 
 </div>
 
@@ -10,6 +10,13 @@
   </a>
 </p>
 
+<div align="center">
+
+### Education: B+ in Computer Science
+### Co-Founder at Propentatech Savong Solutions
+### Innovator & Leader at NPE-TECH Community
+
+</div>
 
 ---
 
@@ -66,10 +73,19 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neussi&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=html,css&count_private=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=neussi&limit=5&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF" alt="Contribution Stats"/>
 </div>
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=neussi&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
+</div>
+
+---
+
+<h2 align="center">GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neussi&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </div>
 
 ---
@@ -80,17 +96,17 @@
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap,tailwind,flutter,dart" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,bootstrap,tailwind,flutter,dart" alt="Frontend Skills"/>
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,dotnet,express,fastapi,c,cpp" alt="Backend Skills"/>
 </p>
 
 ### DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,github,git,terraform,ansible,nginx,linux" alt="DevOps Skills"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,github,git,terraform,ansible,nginx,linux" alt="DevOps Skills"/>
 </p>
 
 ### Databases
@@ -112,7 +128,7 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,aws" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,heroku,aws,azure,matlab" alt="Tools"/>
 </p>
 
 </div>
@@ -131,7 +147,38 @@
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neussi&theme=github_dark" alt="Productive Time"/>
 </div>
 
+---
 
+<h2 align="center">Current Focus</h2>
+
+<div align="center">
+
+```javascript
+const patriceNeussi = {
+    currentRole: "DevOps Engineer & Full Stack Developer",
+    education: "B+ in Computer Science",
+    company: "Propentatech Savong Solutions (Co-Founder)",
+    community: "NPE-TECH Community (Innovator)",
+    location: "Yaoundé, Cameroun",
+    
+    workingOn: [
+        "Building scalable cloud infrastructure",
+        "Developing MLOps pipelines with MLflow",
+        "Creating modern web apps with React & Next.js",
+        "Leading NPE-TECH tech community"
+    ],
+    
+    learning: ["Kubernetes Advanced", "Microservices Architecture", "AI/ML Engineering"],
+    
+    repositories: {
+        total: 89,
+        public: 63,
+        private: 26
+    }
+};
+```
+
+</div>
 
 ---
 
@@ -153,6 +200,21 @@ We share knowledge, collaborate on projects, and grow together as a tech communi
 
 ---
 
+<h2 align="center">Professional Experience</h2>
+
+<div align="center">
+
+| Role | Organization | Description |
+|------|--------------|-------------|
+| **Co-Founder** | Propentatech Savong Solutions | Building innovative tech solutions |
+| **Innovator** | NPE-TECH Community | Leading & mentoring tech community |
+| **DevOps Engineer** | Freelance | Cloud architecture & automation |
+| **Full Stack Developer** | Freelance | Web & mobile app development |
+
+</div>
+
+---
+
 <div align="center">
 
 ### Let's Collaborate
@@ -165,7 +227,7 @@ I'm always open to interesting projects and tech discussions. Feel free to reach
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70)
 
 <sub>From [Patrice Neussi](https://github.com/neussi) with dedication</sub>
 
